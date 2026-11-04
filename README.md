@@ -1,3 +1,4 @@
+[![ci-cd](https://github.com/QMSS-G5072-2026/weather_malaviya_isha/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/QMSS-G5072-2026/weather_malaviya_isha/actions/workflows/ci-cd.yml)
 # weather_im2650
 
 hw7 package
