@@ -1915,6 +1915,7 @@ dev = [
     { name = "pandas-stubs" },
     { name = "pytest" },
     { name = "pytest-cov" },
+    { name = "sphinx" },
 ]
 docs = [
     { name = "myst-nb" },
@@ -1932,6 +1933,7 @@ dev = [
     { name = "pandas-stubs", specifier = ">=3.1.0.261029" },
     { name = "pytest", specifier = ">=9.0" },
     { name = "pytest-cov", specifier = ">=7.1" },
+    { name = "sphinx", specifier = ">=9.2.0" },
 ]
 docs = [
     { name = "myst-nb", specifier = ">=1.4" },

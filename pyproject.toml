@@ -17,6 +17,7 @@ dev = [
     "pandas-stubs>=3.1.0.261029",
     "pytest>=9.0",
     "pytest-cov>=7.1",
+    "sphinx>=9.2.0",
 ]
 docs = [
     "myst-nb>=1.4",
